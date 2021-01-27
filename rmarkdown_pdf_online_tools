@@ -1,0 +1,92 @@
+---
+title: "Ferramentas para gravar vídeos"
+author: "Tutorial" 
+date: "Jeanne Franco (24/11/2020)" 
+output:
+  beamer_presentation:
+    slide_level: 2
+    theme: "Warsaw"
+    fonttheme: "structurebold"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## OBS
+
+- **Download do programa:**  https://obsproject.com/pt-br/download
+
+- **Etapas:**
+
+1. Em "Cenas" (primeira janela de baixo) clica em "+" para adicionar uma nova cena que será o seu vídeo. Adicione um nome para a cena, por exemplo, "vídeo_Restauração".
+
+2. Em fontes (segunda janela ao lado de cenas), você clica em "+" e seleciona "Captura de janela" que serve para você capturar a tela do seu computador. Após isso, você seleciona janela inteira ou uma das janelas onde se encontra sua apresentação. Nessa aba você também tem a opção de adicionar "Dispositivo de captura de vídeo" para aparecer sua imagem da webcam. 
+
+---
+
+3. Em "Controles" (última janela) aparecerá a opção de "Iniciar gravação", a partir disso, você pode começar a gravar seu vídeo. Ao terminar de gravar, vocês vão na mesma aba e clica em "Parar gravação". 
+
+4. Na barra de ferramentas clique em "Arquivo" e "Mostrar gravações". Você encontrará seu vídeo armazenado na pasta do OBS.
+
+- **Importante:** Para converter seu vídeo em mp4, siga esses passos: Arquivo > Configurações > Saída > Gravação > Formato de gravação.
+
+
+## oCam
+
+- **Download do programa:** https://ocam.softonic.com.br/
+
+- **Etapas:**
+
+1. Após abrir a janela do programa aparecerá um frame em verde para fazer o enquadramento da janela onde será capturada a tela da sua apresentação. Recomendo colocar o frame preenchendo toda a tela.
+
+2. Após isso, basta colocar na sua apresentação do Power point e clicar em "Gravar" localizado no botão vermelho do programa.
+
+---
+
+3. Ao terminar a gravação você clica em "Parar" e depois em "Abrir" (ícone de uma pasta) para ver a pasta onde os seus vídeos gravados estão armazenados.
+
+- **Importante:** nesse programa também tem a opção de colocar o cursor do mouse destacado para sinalizar o que está sendo apresentado. Isso pode ser feito indo em "Menu" > "Opções" > "Efeitos".
+
+
+## Zoom
+
+- **Download do programa:** https://us04web.zoom.us/download
+
+- **Etapas:**
+
+1. Crie uma conta no Zoom e baixe o aplicativo pelo site oficial. A conta pode ser a mesma do Gmail.
+
+2. Clique em "New meeting" e selecione na janela que abre "Join with Computer Audio" para que o Zoom consiga capturar o audio.
+
+3. Nas opções que aparecem na barra clique em "Share Screen" e selecione a janela que deseja gravar, no caso, a janela que tem a sua apresentação ou janela inteira do computador e selecione "Share".
+
+---
+
+4. Clique em "More" (três pontos que aparecem ao lado das outras opções) e "Record". A partir disso, estará pronto para você gravar.
+
+5. Para interromper a gravação clique em "More" > "Pause Recording" > "Stop Share".
+
+6. Após isso, quando sair do Zoom ele irá reveter o que foi gravado, então você pode ir direto para a pasta onde estará salvo a sua gravação em mp4. Você saberá qual o vídeo da pasta pela hora e data da última gravação.
+
+## Hippo Video
+
+- **Link do site para gravar o vídeo:** https://www.hippovideo.io/pricing.html
+
+- **Etapas:**
+
+1. Dentre as opções faça uma conta gratuita no site clicando em "Sing up" da opção "Free".
+
+2. Faça o login da sua conta com e-mail e senha.
+
+3. Você será direcionado para a janela de gravação, então pode clicar em "+ Create" ou "Create Video".
+
+---
+
+4. Você pode dar um **check** para gravar a tela em "Screen Record" e "Mic". Caso queira gravar com a web cam clica em "Webcam".
+
+5. Após isso, selecione janela inteira ou apenas a janela da sua apresentação.
+
+6. Comece a gravar e ao terminar clicle em "Finish Recording".
+
+7. Pronto, o vídeo aparecerá para você baixar em formato mp4.
